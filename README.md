@@ -1,10 +1,7 @@
-### Hi there 👋
+### Es un gusto de que estes aquí 👋
 
-<!--
-**LuisGarciaDev/LuisGarciaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - 😄 Deseo mi primer empleo en Desarrollo Web
 - 🔭 Actualmente estoy trabajando como independiente
